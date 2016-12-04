@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"TabelF",
+				"TabelField"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w",
+				"font-weight"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"bgco",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"back",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "doc",
+		"selected_items":
+		[
+			[
+				"doc",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"syntax tx",
+				"Set Syntax: Textile"
+			],
+			[
+				"sy",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 95.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Alisa/AppData/Local/Temp/Rar$DIa0.504/HELP-US-OUT.txt",
+		"/D/GitHub/85b609128961f2c051452b9d7deaaf50/my_passs",
+		"/D/Visual Studio Projects/Работа с данными - ListView, GridView/WebApplication1/WebForm5.aspx",
+		"/D/Downloads/WebForm4.aspx",
+		"/C/Users/Alisa/Documents/Zhu IT.txt",
+		"/D/Visual Studio Projects/Работа с данными - ListView, GridView/Sheduler/packages.config",
+		"/D/Downloads/pwds.txt",
+		"/D/Downloads/Flask/examples/persona/templates/index.html",
+		"/D/Airdecor/index.html",
+		"/C/Users/Alisa/AppData/Local/Temp/Rar$DIa0.544/metadata",
+		"/C/Users/Alisa/AppData/Local/Temp/Rar$DIa0.389/otacert",
+		"/C/Users/Alisa/AppData/Local/Temp/Rar$DIa0.982/update-binary",
+		"/C/Users/Alisa/AppData/Local/Temp/Rar$DIa0.161/file_contexts",
+		"/C/Users/Alisa/Documents/it.html",
+		"/H/ИТС проф сентябрь 2015/Readme.txt",
+		"/D/Downloads/ReadMe.txt",
+		"/C/Users/Alisa/Desktop/upatch/unipatch.txt",
+		"/F/Patch/backend.dll",
+		"/F/Patch/backbas.dll",
+		"/F/select2-master/dist/js/select2.txt",
+		"/C/Users/Alisa/AppData/Local/Temp/Rar$DIa0.780/Керуак Джек. На дороге - royallib.ru.txt",
+		"/D/html/исходная.html",
+		"/D/html/Гостевая.html",
+		"/D/html/Предложения.html",
+		"/D/html/auto.jpg",
+		"/D/html/Фирма.html",
+		"/D/Downloads/ЛистингМодуля02.03.2016",
+		"/D/Visual Studio Projects/22.11.2015/WebApplication1/.gitattributes",
+		"/C/Users/Alisa/Downloads/ОбщийМодуль.PortalOperations.Модуль.txt",
+		"/D/Visual Studio Projects/Работа с данными - ListView, GridView/Sheduler/WebForm2.aspx.cs",
+		"/D/Visual Studio Projects/Работа с данными - ListView, GridView/Sheduler/WebForm3.aspx.cs",
+		"/D/Visual Studio Projects/Работа с данными - ListView, GridView/Sheduler/WebForm4.aspx.cs",
+		"/D/Visual Studio Projects/Работа с данными - ListView, GridView/Sheduler/WebForm1.aspx.cs",
+		"/D/Downloads/Patch/1c82_backbas.dll_patch.vbs",
+		"/C/Program Files (x86)/1cv8/8.3.6.1945/bin/1c82_backbas.dll_patch.vbs",
+		"/D/Downloads/Patch/1c82_backbas.dll_patch.vbs.txt",
+		"/D/Downloads/Patch/1c_8x_UniPatch.exe",
+		"/D/Visual Studio Projects/Работа с данными - ListView, GridView/Sheduler/Web References/WebServiceStatic/Reference.cs",
+		"/D/Visual Studio Projects/Работа с данными - ListView, GridView/Sheduler/Web References/WebServiceStatic/StructureOfData.datasource",
+		"/D/Visual Studio Projects/Работа с данными - ListView, GridView/Sheduler/Web References/WebServiceStatic/WebServiceStatic.wsdl",
+		"/D/Visual Studio Projects/Работа с данными - ListView, GridView/Sheduler/Web References/WebServiceStatic/Reference.map",
+		"/D/html/Текст для Web_страниц.doc",
+		"/D/Webtransfer-finance пополнение счета",
+		"/D/1C/Веб-Сервис табель/схема2.xsd",
+		"/C/Users/Alisa/Downloads/Bootstrap/README.md",
+		"/D/test/.git/config",
+		"/D/test/.git/FETCH_HEAD",
+		"/C/Users/Alisa/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Z/home/my/www/css/style",
+		"/D/Airdecor/Style",
+		"/D/Downloads/шапка7.jpg"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ali",
+			"version",
+			"l'o",
+			"::",
+			"updated_at",
+			"::",
+			"t.",
+			"TableCell",
+			"Table",
+			"Departure",
+			"Tabel",
+			"StructureOfData",
+			"StructureOfData[]",
+			"remarks",
+			"WebServiceStatic",
+			"\\",
+			"nav",
+			"css"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Department",
+			"Table",
+			"Portal",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
